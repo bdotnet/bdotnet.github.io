@@ -1,6 +1,3 @@
-# Presentations
-Repository to share all the presentations from bdotnet events
-
 ## .NET Conf Local - Bengaluru - October 6, 2018
 
 ### Building Resilient Microservices
