@@ -27,9 +27,9 @@
 
 ## BDotNet DevCon'19 - Bengaluru - Feb 23,2019
 
-### Event Website
+### Event Websitem (blazor & webassembly)
 
-[SourceCode blazor & webassembly] (https://github.com/bdotnet/devcon19)
+[SourceCode](https://github.com/bdotnet/devcon19)
 
 ###Developer's Journey to Cloud
 
