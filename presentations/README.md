@@ -29,7 +29,7 @@
 
 ### Event Website
 
-[SourceCode blazor & webassembly] (https://github.com/bdotnet/devcon19)
+[SourceCode blazor & webassembly](https://github.com/bdotnet/devcon19)
 
 ###Developer's Journey to Cloud
 
@@ -37,12 +37,12 @@
 
 ### What's new in .NET Core 3 ?
 
-[Downloads] (https://dotnet.microsoft.com/download/dotnet-core/3.0)  |  [What's New] (https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-0)  | [Migration from ASP.NET Core 2.2 to 3.0] (https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-2.2&tabs=visual-studio)
+[Downloads](https://dotnet.microsoft.com/download/dotnet-core/3.0)  |  [What's New](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-0)  | [Migration from ASP.NET Core 2.2 to 3.0] (https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-2.2&tabs=visual-studio)
 
 ### AI for Every Developer
 
-[AI School] (https://aischool.microsoft.com/en-us/home) | [Video Indexer](https://www.videoindexer.ai/tour) | [AI Demos] (https://aidemos.microsoft.com/)
+[AI School](https://aischool.microsoft.com/en-us/home) | [Video Indexer](https://www.videoindexer.ai/tour) | [AI Demos](https://aidemos.microsoft.com/)
 
-[Cognitive Services] (https://azure.microsoft.com/en-in/services/cognitive-services/) | [Azure AI Gallery] (https://gallery.azure.ai/)
+[Cognitive Services](https://azure.microsoft.com/en-in/services/cognitive-services/) | [Azure AI Gallery](https://gallery.azure.ai/)
 
 
