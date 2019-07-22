@@ -46,3 +46,12 @@
 [Cognitive Services](https://azure.microsoft.com/en-in/services/cognitive-services/) | [Azure AI Gallery](https://gallery.azure.ai/)
 
 
+## BDotNet UG Meet - July 2019
+
+### OVERVIEW of the .NET FOUNDATION
+
+[Slides dotnet-foundation.pptx](https://github.com/bdotnet/bdotnet.github.io/tree/master/presentations/BDotNetUGMeetJuly2019)
+
+### Authentication & Authorization Using .NET Core
+
+[Slides](https://slides.com/arunselvakumar/bdotnet-july19) | [Sample Quickstart](https://github.com/IdentityServer/IdentityServer4/tree/master/samples/Quickstarts)
