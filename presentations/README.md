@@ -48,7 +48,7 @@
 
 ## BDotNet UG Meet - July 2019
 
-### OVERVIEW of the .NET FOUNDATION
+### Overview of the .NET Foundation
 
 [Slides dotnet-foundation.pptx](https://github.com/bdotnet/bdotnet.github.io/tree/master/presentations/BDotNetUGMeetJuly2019)
 
