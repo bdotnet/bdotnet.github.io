@@ -27,23 +27,24 @@
 
 ## BDotNet DevCon'19 - Bengaluru - Feb 23,2019
 
-### Event Website
+### Event Websitem (blazor & webassembly)
 
-[SourceCode blazor & webassembly](https://github.com/bdotnet/devcon19)
+[SourceCode](https://github.com/bdotnet/devcon19)
 
-###Developer's Journey to Cloud
+### Developer's Journey to Cloud
 
 [Demo](https://github.com/wrijughosh/DevCon19)
 
 ### What's new in .NET Core 3 ?
 
-[Downloads](https://dotnet.microsoft.com/download/dotnet-core/3.0)  |  [What'sNew](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-0)  | [Migration from ASP.NET Core 2.2 to 3.0] (https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-2.2&tabs=visual-studio)
+[Downloads](https://dotnet.microsoft.com/download/dotnet-core/3.0)  |  [What's New](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-0)  | [Migration from ASP.NET Core 2.2 to 3.0](https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-2.2&tabs=visual-studio)
 
 ### AI for Every Developer
 
-[AISchool](https://aischool.microsoft.com/en-us/home) | [VideoIndexer](https://www.videoindexer.ai/tour) | [AIDemos](https://aidemos.microsoft.com/)
+[AI School](https://aischool.microsoft.com/en-us/home) | [Video Indexer](https://www.videoindexer.ai/tour) | [AI Demos](https://aidemos.microsoft.com/)
 
-[CognitiveServices](https://azure.microsoft.com/en-in/services/cognitive-services/) | [AzureAIGallery](https://gallery.azure.ai/)
+[Cognitive Services](https://azure.microsoft.com/en-in/services/cognitive-services/) | [Azure AI Gallery](https://gallery.azure.ai/)
+
 
 ## BDotNet UG Meet - July 2019
 
