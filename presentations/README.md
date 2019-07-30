@@ -15,6 +15,10 @@
 
 [Slides](https://github.com/Naveen-NN/SharedResources/tree/master/GraphQL-TechTalk-07202019/Presentation) | [Sample Project](https://github.com/Naveen-NN/SharedResources/tree/master/GraphQL-TechTalk-07202019/GraphQLBookApi)
 
+### XAML Islands for desktop apps - Vinoth Rajendran
+
+[Slides](https://github.com/bdotnet/bdotnet.github.io/tree/master/presentations/BDotNetUGMeetJuly2019/XamlIslands) | [Sample Project](https://github.com/bdotnet/bdotnet.github.io/tree/master/presentations/BDotNetUGMeetJuly2019/XamlIslands/XAMLNavView)
+
 
 ## BDotNet DevCon'19 - Bengaluru - Feb 23,2019
 
