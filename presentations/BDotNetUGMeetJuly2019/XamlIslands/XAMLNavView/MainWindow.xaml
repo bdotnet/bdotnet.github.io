@@ -1,0 +1,31 @@
+﻿<Window x:Class="XAMLNavView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:XamlHost="clr-namespace:Microsoft.Toolkit.Wpf.UI.XamlHost;assembly=Microsoft.Toolkit.Wpf.UI.XamlHost"        
+        xmlns:XamlControl="clr-namespace:Microsoft.Toolkit.Wpf.UI.Controls;assembly=Microsoft.Toolkit.Wpf.UI.Controls"
+        xmlns:local="clr-namespace:XAMLNavView"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20*"/>
+            <ColumnDefinition Width="80*"/>
+        </Grid.ColumnDefinitions>
+        
+        <XamlHost:WindowsXamlHost Grid.Column="0" 
+                                  InitialTypeName="Windows.UI.Xaml.Controls.NavigationView"
+                                  ChildChanged="WindowsXamlHost_ChildChanged"/>
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <XamlControl:InkToolbar TargetInkCanvas="{x:Reference Name=inkCanvas}"/>
+            <XamlControl:InkCanvas Grid.Row="1" x:Name="inkCanvas" />
+        </Grid>       
+        
+    </Grid>
+</Window>

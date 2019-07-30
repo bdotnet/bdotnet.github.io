@@ -1,6 +1,42 @@
 # BDotNet Presentations
 
 
+## BDotNet UG Meet - July 2019
+
+### Overview of the .NET Foundation
+
+[Slides dotnet-foundation.pptx](https://github.com/bdotnet/bdotnet.github.io/tree/master/presentations/BDotNetUGMeetJuly2019)
+
+### Authentication & Authorization Using .NET Core
+
+[Slides](https://slides.com/arunselvakumar/bdotnet-july19) | [Sample Quickstart](https://github.com/IdentityServer/IdentityServer4/tree/master/samples/Quickstarts)
+
+### GraphQL - A query language for your API - by Naveen
+
+[Slides](https://github.com/Naveen-NN/SharedResources/tree/master/GraphQL-TechTalk-07202019/Presentation) | [Sample Project](https://github.com/Naveen-NN/SharedResources/tree/master/GraphQL-TechTalk-07202019/GraphQLBookApi)
+
+
+## BDotNet DevCon'19 - Bengaluru - Feb 23,2019
+
+### Event Websitem (blazor & webassembly)
+
+[SourceCode](https://github.com/bdotnet/devcon19)
+
+### Developer's Journey to Cloud
+
+[Demo](https://github.com/wrijughosh/DevCon19)
+
+### What's new in .NET Core 3 ?
+
+[Downloads](https://dotnet.microsoft.com/download/dotnet-core/3.0)  |  [What's New](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-0)  | [Migration from ASP.NET Core 2.2 to 3.0](https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-2.2&tabs=visual-studio)
+
+### AI for Every Developer
+
+[AI School](https://aischool.microsoft.com/en-us/home) | [Video Indexer](https://www.videoindexer.ai/tour) | [AI Demos](https://aidemos.microsoft.com/)
+
+[Cognitive Services](https://azure.microsoft.com/en-in/services/cognitive-services/) | [Azure AI Gallery](https://gallery.azure.ai/)
+
+
 ## Azure DevOps BootCamp - Bengaluru - Jan 5, 2019
 
 ### Introduction to Azure DevOps
@@ -25,33 +61,3 @@
 
 [Slides](https://github.com/dotnet-presentations/dotnetconf2018/blob/master/Technical/Decks/Blazor_Modern%20Web%20development%20with%20.NET%20and%20WebAssembly.pptx) | [Demo](https://github.com/svswaminathan/blazor-dotnetconfblr18)
 
-## BDotNet DevCon'19 - Bengaluru - Feb 23,2019
-
-### Event Websitem (blazor & webassembly)
-
-[SourceCode](https://github.com/bdotnet/devcon19)
-
-### Developer's Journey to Cloud
-
-[Demo](https://github.com/wrijughosh/DevCon19)
-
-### What's new in .NET Core 3 ?
-
-[Downloads](https://dotnet.microsoft.com/download/dotnet-core/3.0)  |  [What's New](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-0)  | [Migration from ASP.NET Core 2.2 to 3.0](https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-2.2&tabs=visual-studio)
-
-### AI for Every Developer
-
-[AI School](https://aischool.microsoft.com/en-us/home) | [Video Indexer](https://www.videoindexer.ai/tour) | [AI Demos](https://aidemos.microsoft.com/)
-
-[Cognitive Services](https://azure.microsoft.com/en-in/services/cognitive-services/) | [Azure AI Gallery](https://gallery.azure.ai/)
-
-
-## BDotNet UG Meet - July 2019
-
-### Overview of the .NET Foundation
-
-[Slides dotnet-foundation.pptx](https://github.com/bdotnet/bdotnet.github.io/tree/master/presentations/BDotNetUGMeetJuly2019)
-
-### Authentication & Authorization Using .NET Core
-
-[Slides](https://slides.com/arunselvakumar/bdotnet-july19) | [Sample Quickstart](https://github.com/IdentityServer/IdentityServer4/tree/master/samples/Quickstarts)
