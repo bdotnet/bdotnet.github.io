@@ -11,6 +11,11 @@
 
 [Slides](https://slides.com/arunselvakumar/bdotnet-july19) | [Sample Quickstart](https://github.com/IdentityServer/IdentityServer4/tree/master/samples/Quickstarts)
 
+### GraphQL - A query language for your API - by Naveen
+
+[Slides](https://github.com/Naveen-NN/SharedResources/tree/master/GraphQL-TechTalk-07202019/Presentation) | [Sample Project](https://github.com/Naveen-NN/SharedResources/tree/master/GraphQL-TechTalk-07202019/GraphQLBookApi)
+
+
 ## BDotNet DevCon'19 - Bengaluru - Feb 23,2019
 
 ### Event Websitem (blazor & webassembly)
