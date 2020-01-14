@@ -1,5 +1,32 @@
 # BDotNet Presentations
 
+## .NET Conf Local Bengaluru - 2019
+
+## .NET Conf Keynote recap
+
+[Slides](https://github.com/dotnet-presentations/dotnetconf2019/blob/master/Technical/dotNETConf2019_Keynote.pptx) | [Demo](https://github.com/dotnet-presentations/dotnetconf2019/tree/master/Technical/keynote)
+
+## What's new in Xamarin
+
+[Slides](https://github.com/dotnet-presentations/dotnetconf2019/blob/master/Technical/2019_09_23_DotnetConf2019_XamarinProductiveBeautiful.pptx)
+
+## Bye Bye WCF, Hello gRPC
+
+[Slides](https://www.slideshare.net/svswaminathan/bye-bye-wcf-hello-grpc) | [Demo](https://github.com/dotnet-presentations/dotnetconf2019/tree/master/Technical/keynote)
+
+## What's new in C# 8.0
+
+[Slides](https://www.slideshare.net/contact4manoj/whats-newi-in-c-80) | [Demo]()
+
+## Microsoft Reactor Bengaluru- Community Launch
+
+### Building Cloud Native apps - A Developer journey with .NET
+
+[Slides](https://www.slideshare.net/svswaminathan/building-cloud-native-apps) | [Demo](https://github.com/dotnet-architecture/eShopOnContainers)
+
+### Kubernetes on Azure
+
+[Topics Covered](https://www.edx.org/course/introduction-to-kubernetes)
 
 ## BDotNet UG Meet - July 2019
 
