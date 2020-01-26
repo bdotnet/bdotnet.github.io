@@ -1,5 +1,10 @@
 # BDotNet Presentations
 
+## Meetup - Bengaluru - Jan 25, 2019
+
+### Being more productive with C# 8.0
+
+[Slides](https://slides.com/arunselvakumar/deck?fbclid=IwAR294cKbhIhBPRvGJzh7kcHflogFa4uC3VshgOPtsORwwRkoASmUcqPzKac#/) | [Demo](https://github.com/arunselvakumar/NewInCSharp8AndNETCore3)
 
 ## Azure DevOps BootCamp - Bengaluru - Jan 5, 2019
 
