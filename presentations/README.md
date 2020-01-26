@@ -1,10 +1,13 @@
 # BDotNet Presentations
 
-## Meetup - Bengaluru - Jan 25, 2019
+## Meetup - Bengaluru - Jan 25, 2020
 
 ### Being more productive with C# 8.0
 
 [Slides](https://slides.com/arunselvakumar/deck?fbclid=IwAR294cKbhIhBPRvGJzh7kcHflogFa4uC3VshgOPtsORwwRkoASmUcqPzKac#/) | [Demo](https://github.com/arunselvakumar/NewInCSharp8AndNETCore3)
+
+### Microservices - the gRPC way
+[Demo](https://github.com/vishipayyallore/speaker_series/tree/master/MicroServices/25Jan2020)
 
 ## .NET Conf Local Bengaluru - 2019
 
