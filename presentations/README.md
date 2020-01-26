@@ -1,20 +1,29 @@
 # BDotNet Presentations
 
+## Meetup - Bengaluru - Jan 25, 2020
+
+### Being more productive with C# 8.0
+
+[Slides](https://slides.com/arunselvakumar/deck?fbclid=IwAR294cKbhIhBPRvGJzh7kcHflogFa4uC3VshgOPtsORwwRkoASmUcqPzKac#/) | [Demo](https://github.com/arunselvakumar/NewInCSharp8AndNETCore3)
+
+### Microservices - the gRPC way
+[Demo](https://github.com/vishipayyallore/speaker_series/tree/master/MicroServices/25Jan2020)
+
 ## .NET Conf Local Bengaluru - 2019
 
-## .NET Conf Keynote recap
+### .NET Conf Keynote recap
 
 [Slides](https://github.com/dotnet-presentations/dotnetconf2019/blob/master/Technical/dotNETConf2019_Keynote.pptx) | [Demo](https://github.com/dotnet-presentations/dotnetconf2019/tree/master/Technical/keynote)
 
-## What's new in Xamarin
+### What's new in Xamarin
 
 [Slides](https://github.com/dotnet-presentations/dotnetconf2019/blob/master/Technical/2019_09_23_DotnetConf2019_XamarinProductiveBeautiful.pptx)
 
-## Bye Bye WCF, Hello gRPC
+### Bye Bye WCF, Hello gRPC
 
 [Slides](https://www.slideshare.net/svswaminathan/bye-bye-wcf-hello-grpc) | [Demo](https://github.com/dotnet-presentations/dotnetconf2019/tree/master/Technical/keynote)
 
-## What's new in C# 8.0
+### What's new in C# 8.0
 
 [Slides](https://www.slideshare.net/contact4manoj/whats-newi-in-c-80) | [Demo]()
 
