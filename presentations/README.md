@@ -1,5 +1,14 @@
 # BDotNet Presentations
 
+## Virtual Meetup - May 2, 2020
+
+### Infrastructure as Code using .NET
+
+[Slides](https://www.slideshare.net/svswaminathan/infrastructure-automation-with-net) | [Demo](https://github.com/svswaminathan/DurableFunctions-FanOutFanIn)
+
+### Durable Functions
+[Slides](https://docs.google.com/presentation/d/1-idCGF1dWowdi0E9Z8RoigPvSoyLYtFe0oBT0gJYnIY/edit#slide=id.p1) | [Demo](https://github.com/amreshkris/DurableFunctions-FanOutFanIn)
+
 ## Meetup - Bengaluru - Jan 25, 2020
 
 ### Being more productive with C# 8.0
