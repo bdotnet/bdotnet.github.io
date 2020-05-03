@@ -4,10 +4,10 @@
 
 ### Infrastructure as Code using .NET
 
-[Slides](https://www.slideshare.net/svswaminathan/infrastructure-automation-with-net) | [Demo](https://github.com/svswaminathan/DurableFunctions-FanOutFanIn)
+[Slides](https://www.slideshare.net/svswaminathan/infrastructure-automation-with-net) | [Demo](https://github.com/svswaminathan/DurableFunctions-FanOutFanIn) | [Recording](https://youtu.be/KERMopYE1J0)
 
 ### Durable Functions
-[Slides](https://docs.google.com/presentation/d/1-idCGF1dWowdi0E9Z8RoigPvSoyLYtFe0oBT0gJYnIY/edit#slide=id.p1) | [Demo](https://github.com/amreshkris/DurableFunctions-FanOutFanIn)
+[Slides](https://docs.google.com/presentation/d/1-idCGF1dWowdi0E9Z8RoigPvSoyLYtFe0oBT0gJYnIY/edit#slide=id.p1) | [Demo](https://github.com/amreshkris/DurableFunctions-FanOutFanIn) | [Recording](https://youtu.be/pe60fHFVP_s)
 
 ## Meetup - Bengaluru - Jan 25, 2020
 
