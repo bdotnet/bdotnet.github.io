@@ -234,7 +234,7 @@ button:focus {
 .mu-hero-overlay {
 	display: inline;
 	float: left;
-	opacity: 0.94;
+	opacity: 80%;
 	width: 100%;
 }
 
