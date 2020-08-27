@@ -1564,7 +1564,9 @@ button:focus {
 	.mu-contact-content {
 		padding: 0 10%;
 	}
-				
+	#yt_frame {
+		width: 100%;
+	}			
 
 }
 
@@ -1694,7 +1696,9 @@ button:focus {
 	.mu-faq-content .panel-title {
 		font-size: 14px;
 	}
-					
+	#yt_frame {
+		width: 100%;
+	}				
 	
 }
 
@@ -1747,6 +1751,9 @@ button:focus {
 		left: 30px;
 		width: 280px;
 	}
+	#yt_frame {
+		width: 100%;
+	}
 }
 
 
@@ -1767,7 +1774,9 @@ button:focus {
 	h2 {
 		font-size: 22px;
 	}
-	
+	#yt_frame {
+		width: 100%;
+	}
 	
 	
 }
