@@ -7,8 +7,8 @@ Author URI : http://www.markups.io/
 .mu-hero-overlay,
 .mu-video-overlay {
 	background-color: #EE3268; /* fallback for old browsers */
-	background: -webkit-linear-gradient(to right, #1b2a38, #8c3535); /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #1b2a38, #8c3535); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: -webkit-linear-gradient(to right, #18242f, #3e1313); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #18242f, #3e1313); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .mu-primary-btn:hover,
