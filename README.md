@@ -8,6 +8,7 @@ BDotNet is one of the oldest user groups in Bangalore serving the Microsoft Tech
 * [Facebook](https://facebook.com/groups/bdotnet)
 * [Twitter](https://twitter.com/bdotnetug)
 * [Meetup](https://meetup.com/bdotnetug)
+* [Discord](https://discord.gg/ktq98F9tpU)
 
 
 ## Upcoming events :
