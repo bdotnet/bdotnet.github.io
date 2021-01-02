@@ -9,14 +9,14 @@
 	<title>.NET Conf 2020 - Bengaluru - Virtual Conference</title>
 	<meta name=".NET Conf 2020 - Bengaluru" content="width=device-width, initial-scale=1">
 	<meta name="keywords"
-		content=".NET,Conf,2020,dev, dotnet,developer,conference,bdotnet,xhackers,cross platform mobile development,xamarin,xamarin.forms,blazor,microservices,asp.net" />
+		  content=".NET,Conf,2020,dev, dotnet,developer,conference,bdotnet,xhackers,cross platform mobile development,xamarin,xamarin.forms,blazor,microservices,asp.net" />
 	<!-- Twitter Card data -->
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:site" content="@xhackersco">
 	<meta name="twitter:creator" content="@xhackersco">
 	<meta name="twitter:title" content=".NET Conf 2020 - Virtual Conference - Bengaluru">
 	<meta name="twitter:description"
-		content=".NET Conf 2020 is a free, virtual developer conference co-organized by the Bangalore DotNet UG (BDotNet), XHackers UG community and Microsoft | Bengaluru, IN | JAN 23 2021">
+		  content=".NET Conf 2020 is a free, virtual developer conference co-organized by the Bangalore DotNet UG (BDotNet), XHackers UG community and Microsoft | Bengaluru, IN | JAN 23 2021">
 	<meta name="twitter:image" content="http://bdotnet.in/dotnet-conf-2020/assets/images/dotnet-conf-2020-banner.jpg">
 
 
@@ -26,7 +26,7 @@
 	<meta property="og:url" content="https://bdotnet.in/dotnet-conf-2020/" />
 	<meta property="og:image" content="http://bdotnet.in/dotnet-conf-2020/assets/images/dotnet-conf-2020-banner.jpg" />
 	<meta property="og:description"
-		content=".NET Conf 2020 is a free, virtual developer conference co-organized by the Bangalore DotNet UG (BDotNet), XHackers UG community and Microsoft | Bengaluru, IN | JAN 23 2021" />
+		  content=".NET Conf 2020 is a free, virtual developer conference co-organized by the Bangalore DotNet UG (BDotNet), XHackers UG community and Microsoft | Bengaluru, IN | JAN 23 2021" />
 	<!-- Favicon -->
 	<link rel="icon" type="image/png" href="assets/images/favicon.png" />
 	<!-- Font Awesome -->
@@ -42,7 +42,6 @@
 	<link href="style.css" rel="stylesheet">
 
 	<!-- Fonts -->
-
 	<!-- Open Sans for body font -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700,800" rel="stylesheet">
 	<!-- Montserrat for title -->
@@ -54,9 +53,22 @@
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 	<!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+	  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
+	<script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
+		const button = new Crate({
+            server: '759321336665079809',
+            channel: '759338831777759232',
+		})
+
+		// Random color every 300 milliseconds
+		setInterval(() => {
+			button.options.color = "#000000".replace(/0/g, () => {
+				return (~~(Math.random() * 16)).toString(16)
+			})
+		}, 500)
+	</script>
 </head>
 
 <body>
