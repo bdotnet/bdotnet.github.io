@@ -9,16 +9,18 @@ BDotNet is one of the oldest user groups in Bangalore serving the Microsoft Tech
 * [Twitter](https://twitter.com/bdotnetug)
 * [Meetup](https://meetup.com/bdotnetug)
 * [Discord](https://discord.gg/ktq98F9tpU)
+* [YouTube](https://www.youtube.com/channel/UCXklctTmMvHyMa_jJWQj2BQ)
 
 
 ## Upcoming events :
-* [.NET Conf 2020](https://bdotnet.in/dotnet-conf-2020/) - Jan 23, 2021
-* Feb'21 UG Meet - Feb 20, 2021 (tentative)
+
+* [Feb'21 UG Meet](https://www.youtube.com/watch?v=px_A7U5vg-s) - Feb 20, 2021 
 * Mar'21 UG Meet - Mar 20, 2021 (tentative)
 
 
 ## Past events :
-[.NET Dev Summit 2020](https://bdotnet.in/dotnet-dev-summit-2020)
+* [.NET Conf 2020](https://bdotnet.in/dotnet-conf-2020/) 
+* [.NET Dev Summit 2020](https://bdotnet.in/dotnet-dev-summit-2020)
 
 ## Presentations :
 Check out the presentation videos, slides & demos at : [https://bdotnet.in/presentations](https://bdotnet.in/presentations)
