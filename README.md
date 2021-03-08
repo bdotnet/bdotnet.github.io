@@ -14,11 +14,11 @@ BDotNet is one of the oldest user groups in Bangalore serving the Microsoft Tech
 
 ## Upcoming events :
 
-* [Feb'21 UG Meet](https://www.youtube.com/watch?v=px_A7U5vg-s) - Feb 20, 2021 
-* Mar'21 UG Meet - Mar 20, 2021 (tentative)
+* [Mar'21 UG Meet](https://youtu.be/mA8Bs1fnH4s) - Mar 10, 2021
 
 
 ## Past events :
+* [Feb'21 UG Meet](https://www.youtube.com/watch?v=px_A7U5vg-s)
 * [.NET Conf 2020](https://bdotnet.in/dotnet-conf-2020/) 
 * [.NET Dev Summit 2020](https://bdotnet.in/dotnet-dev-summit-2020)
 
