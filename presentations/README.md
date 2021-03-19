@@ -1,5 +1,8 @@
 # BDotNet Presentations
 
+## AWS for .NET Developers - March 10, 2021
+[Slides](https://swaminathanvetri.blob.core.windows.net/blog-images/DotnetOnAWS.pdf)
+
 ## Virtual Meetup - May 2, 2020
 
 ### Infrastructure as Code using .NET
