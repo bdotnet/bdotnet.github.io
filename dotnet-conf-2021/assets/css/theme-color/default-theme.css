@@ -33,7 +33,7 @@ Author URI : http://www.markups.io/
 .mu-navbar .mu-menu li a:hover,
 .mu-navbar .mu-menu li a:focus,
 .mu-single-event .mu-event-time {
-	color: #EE3268;
+	color: #428bca;
 }
 
 .mu-speakers-slider .slick-next,
@@ -51,7 +51,7 @@ Author URI : http://www.markups.io/
 .mu-schedule-menu li.active a,
 .mu-schedule-menu li.active a:hover,
 .mu-schedule-menu li.active a:focus {
-	background-color: #EE3268;
+	background-color: #428bca;
 }
 
 .mu-social-media a:hover,
