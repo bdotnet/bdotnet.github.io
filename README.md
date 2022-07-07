@@ -14,11 +14,12 @@ BDotNet is one of the oldest user groups in Bangalore serving the Microsoft Tech
 
 ## Upcoming events :
 
-* [Building Cloud Native .NET Apps on Azure](https://bit.ly/bdn-july21-ug) - July 17, 2021
+* [Microsoft Build 2022 - Recap](https://ti.to/bdotnetug/build-2022-recap) - July 9, 2022
 
 
 ## Past events :
 
+* [Building Cloud Native .NET Apps on Azure](https://bit.ly/bdn-july21-ug) 
 * [Global Azure 2021](http://gab2021.azurewebsites.net/)
 * [Mar'21 UG Meet - AWS for .NET Developers](https://youtu.be/mA8Bs1fnH4s)
 * [Feb'21 UG Meet](https://www.youtube.com/watch?v=px_A7U5vg-s)
