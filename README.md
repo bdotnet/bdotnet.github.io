@@ -2,7 +2,7 @@
 
 ## About:
 
-BDotNet is one of the oldest user groups in Bangalore serving the Microsoft Tech community for more than a decade.
+BDotNet is one of the oldest user groups in Bangalore serving the Microsoft Tech community for close to 2 decades.
 
 ## Social Presence:
 * [Facebook](https://facebook.com/groups/bdotnet)
@@ -14,11 +14,12 @@ BDotNet is one of the oldest user groups in Bangalore serving the Microsoft Tech
 
 ## Upcoming events :
 
-* [Microsoft Build 2022 - Recap](https://ti.to/bdotnetug/build-2022-recap) - July 9, 2022
+* [.NET Conf 2022 - Bengaluru](https://bdotnet.in/dotnet-conf-2022/) - Jan 7, 2023
 
 
 ## Past events :
 
+* [Microsoft Build 2022 - Recap](https://ti.to/bdotnetug/build-2022-recap)
 * [Building Cloud Native .NET Apps on Azure](https://bit.ly/bdn-july21-ug) 
 * [Global Azure 2021](http://gab2021.azurewebsites.net/)
 * [Mar'21 UG Meet - AWS for .NET Developers](https://youtu.be/mA8Bs1fnH4s)
