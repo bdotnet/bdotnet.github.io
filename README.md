@@ -14,7 +14,7 @@ BDotNet is one of the oldest user groups in Bangalore serving the Microsoft Tech
 
 ## Upcoming events :
 
-- [.NET Conf 2023 - Bengaluru](https://bdotnet.in/dotnet-conf-2023/) - Jan, 2023
+- [.NET Conf 2023 - Bengaluru](https://bdotnet.in/dotnet-conf-2023/) - Jan 6, 2024
 
 ## Past events :
 
