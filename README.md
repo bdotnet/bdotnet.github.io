@@ -14,10 +14,11 @@ BDotNet is one of the oldest user groups in Bangalore serving the Microsoft Tech
 
 ## Upcoming events :
 
-- [Serverless on Azure](https://ti.to/bdotnetug/serverless-on-azure) - Aug 19, 2023
+- [.NET Conf 2023 - Bengaluru](https://bdotnet.in/dotnet-conf-2023/) - Jan 6, 2024
 
 ## Past events :
 
+- [Serverless on Azure](https://ti.to/bdotnetug/serverless-on-azure) - Aug 19, 2023
 - [.NET Conf 2022 - Bengaluru](https://bdotnet.in/dotnet-conf-2022/) - Jan 7, 2023
 - [Microsoft Build 2022 - Recap](https://ti.to/bdotnetug/build-2022-recap)
 - [Building Cloud Native .NET Apps on Azure](https://bit.ly/bdn-july21-ug)
